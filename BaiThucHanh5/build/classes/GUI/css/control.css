@@ -1,0 +1,19 @@
+.button:hover{
+    -fx-border-width: 2 2 2 2;
+    -fx-border-color: #18A0FB;
+    
+}
+.label:hover{
+    -fx-opacity: 0.8
+        
+}
+.check-box:hover{
+    -fx-font-size: 18;
+}
+.button-exit:hover{
+    -fx-background-color: red; 
+    -fx-border-width: 0 0 0 0;
+    -fx-font-color: white;
+    
+    
+}
